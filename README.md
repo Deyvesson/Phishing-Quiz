@@ -26,11 +26,15 @@ Este é um projeto educativo interativo desenvolvido para conscientizar as pesso
 ```
 ├── index.html           # Página inicial com introdução
 ├── question1.html       # Primeira questão do quiz
-├── final.html          # Página de conclusão
-├── styleQuestions.css  # Estilos das páginas de questões
-├── question.js         # Lógica do quiz e controle de áudio
-├── audio.mp3           # Música de fundo
-└── README.md           # Documentação do projeto
+├── question2.html       # Segunda questão do quiz
+├── question3.html       # Terceira questão do quiz
+├── question4.html       # Quarta questão do quiz
+├── end.html             # Página de conclusão
+├── styleQuestions.css   # Estilos das páginas de questões
+├── question.js          # Lógica do quiz e controle de áudio
+├── audio.mp3            # Música de fundo
+├── /images              # Pasta com as imagens utilizadas
+└── README.md            # Documentação do projeto
 ```
 
 ## 🎮 Como Usar
