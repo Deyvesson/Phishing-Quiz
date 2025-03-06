@@ -3,6 +3,8 @@
 ## 📋 Sobre o Projeto
 Este é um projeto educativo interativo desenvolvido para conscientizar as pessoas sobre os perigos do phishing e ensinar métodos de proteção contra este tipo de golpe. Através de um quiz interativo e informativo, os usuários aprendem a identificar e se proteger de tentativas de phishing de forma engajadora e didática.
 
+🌐 **Acesse o projeto**: [Quiz sobre Phishing](https://deyvesson.github.io/Phishing-Quiz/)
+
 ## 🎯 Objetivos
 - Educar usuários sobre o que é phishing
 - Ensinar a identificar sinais de tentativas de phishing
